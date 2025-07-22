@@ -11,8 +11,9 @@ A simple and responsive color picker tool built with **HTML, CSS, and JavaScript
 - 📱 Mobile responsive design
 
 ## 📸 Screenshot
- 
-![screenshot](screenshot.png)
+
+![Color Picker Tool](Screenshot.png)
+
 
 ## 🧠 Skills Used
 
