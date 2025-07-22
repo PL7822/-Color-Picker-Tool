@@ -12,7 +12,7 @@ A simple and responsive color picker tool built with **HTML, CSS, and JavaScript
 
 ## 📸 Screenshot
 
-![screenshot](images/screenshot.png)
+![screenshot](screenshot.png)
 
 ## 🧠 Skills Used
 
@@ -23,5 +23,5 @@ A simple and responsive color picker tool built with **HTML, CSS, and JavaScript
   
 ## 🤝 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/pritamlendale)
+- [LinkedIn](https://www.linkedin.com/in/pritam-lendale-398172353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [GitHub](https://github.com/pritamlendale)
